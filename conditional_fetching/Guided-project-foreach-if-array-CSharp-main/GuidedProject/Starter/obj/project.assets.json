@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Data\\5.Other\\8.C#\\TestProject\\conditional_fetching\\conditional_fetching.csproj",
-      "projectName": "conditional_fetching",
-      "projectPath": "D:\\Data\\5.Other\\8.C#\\TestProject\\conditional_fetching\\conditional_fetching.csproj",
+      "projectUniqueName": "D:\\Data\\5.Other\\8.C#\\TestProject\\conditional_fetching\\Guided-project-foreach-if-array-CSharp-main\\GuidedProject\\starter\\Starter.csproj",
+      "projectName": "Starter",
+      "projectPath": "D:\\Data\\5.Other\\8.C#\\TestProject\\conditional_fetching\\Guided-project-foreach-if-array-CSharp-main\\GuidedProject\\starter\\Starter.csproj",
       "packagesPath": "C:\\Users\\argun\\.nuget\\packages\\",
-      "outputPath": "D:\\Data\\5.Other\\8.C#\\TestProject\\conditional_fetching\\obj\\",
+      "outputPath": "D:\\Data\\5.Other\\8.C#\\TestProject\\conditional_fetching\\Guided-project-foreach-if-array-CSharp-main\\GuidedProject\\starter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\argun\\AppData\\Roaming\\NuGet\\NuGet.Config"

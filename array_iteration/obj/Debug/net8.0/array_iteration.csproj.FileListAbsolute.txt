@@ -1,0 +1,15 @@
+D:\Data\5.Other\8.C#\TestProject\array_iteration\bin\Debug\net8.0\array_iteration.exe
+D:\Data\5.Other\8.C#\TestProject\array_iteration\bin\Debug\net8.0\array_iteration.deps.json
+D:\Data\5.Other\8.C#\TestProject\array_iteration\bin\Debug\net8.0\array_iteration.runtimeconfig.json
+D:\Data\5.Other\8.C#\TestProject\array_iteration\bin\Debug\net8.0\array_iteration.dll
+D:\Data\5.Other\8.C#\TestProject\array_iteration\bin\Debug\net8.0\array_iteration.pdb
+D:\Data\5.Other\8.C#\TestProject\array_iteration\obj\Debug\net8.0\array_iteration.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\5.Other\8.C#\TestProject\array_iteration\obj\Debug\net8.0\array_iteration.AssemblyInfoInputs.cache
+D:\Data\5.Other\8.C#\TestProject\array_iteration\obj\Debug\net8.0\array_iteration.AssemblyInfo.cs
+D:\Data\5.Other\8.C#\TestProject\array_iteration\obj\Debug\net8.0\array_iteration.csproj.CoreCompileInputs.cache
+D:\Data\5.Other\8.C#\TestProject\array_iteration\obj\Debug\net8.0\array_iteration.sourcelink.json
+D:\Data\5.Other\8.C#\TestProject\array_iteration\obj\Debug\net8.0\array_iteration.dll
+D:\Data\5.Other\8.C#\TestProject\array_iteration\obj\Debug\net8.0\refint\array_iteration.dll
+D:\Data\5.Other\8.C#\TestProject\array_iteration\obj\Debug\net8.0\array_iteration.pdb
+D:\Data\5.Other\8.C#\TestProject\array_iteration\obj\Debug\net8.0\array_iteration.genruntimeconfig.cache
+D:\Data\5.Other\8.C#\TestProject\array_iteration\obj\Debug\net8.0\ref\array_iteration.dll

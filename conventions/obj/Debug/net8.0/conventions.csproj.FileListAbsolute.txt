@@ -1,0 +1,15 @@
+D:\Data\5.Other\8.C#\TestProject\conventions\bin\Debug\net8.0\conventions.exe
+D:\Data\5.Other\8.C#\TestProject\conventions\bin\Debug\net8.0\conventions.deps.json
+D:\Data\5.Other\8.C#\TestProject\conventions\bin\Debug\net8.0\conventions.runtimeconfig.json
+D:\Data\5.Other\8.C#\TestProject\conventions\bin\Debug\net8.0\conventions.dll
+D:\Data\5.Other\8.C#\TestProject\conventions\bin\Debug\net8.0\conventions.pdb
+D:\Data\5.Other\8.C#\TestProject\conventions\obj\Debug\net8.0\conventions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\5.Other\8.C#\TestProject\conventions\obj\Debug\net8.0\conventions.AssemblyInfoInputs.cache
+D:\Data\5.Other\8.C#\TestProject\conventions\obj\Debug\net8.0\conventions.AssemblyInfo.cs
+D:\Data\5.Other\8.C#\TestProject\conventions\obj\Debug\net8.0\conventions.csproj.CoreCompileInputs.cache
+D:\Data\5.Other\8.C#\TestProject\conventions\obj\Debug\net8.0\conventions.sourcelink.json
+D:\Data\5.Other\8.C#\TestProject\conventions\obj\Debug\net8.0\conventions.dll
+D:\Data\5.Other\8.C#\TestProject\conventions\obj\Debug\net8.0\refint\conventions.dll
+D:\Data\5.Other\8.C#\TestProject\conventions\obj\Debug\net8.0\conventions.pdb
+D:\Data\5.Other\8.C#\TestProject\conventions\obj\Debug\net8.0\conventions.genruntimeconfig.cache
+D:\Data\5.Other\8.C#\TestProject\conventions\obj\Debug\net8.0\ref\conventions.dll

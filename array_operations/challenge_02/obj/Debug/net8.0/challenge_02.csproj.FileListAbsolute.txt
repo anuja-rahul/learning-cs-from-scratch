@@ -1,0 +1,15 @@
+D:\Data\6.Other\10.C#\TestProject\array_operations\challenge_02\bin\Debug\net8.0\challenge_02.exe
+D:\Data\6.Other\10.C#\TestProject\array_operations\challenge_02\bin\Debug\net8.0\challenge_02.deps.json
+D:\Data\6.Other\10.C#\TestProject\array_operations\challenge_02\bin\Debug\net8.0\challenge_02.runtimeconfig.json
+D:\Data\6.Other\10.C#\TestProject\array_operations\challenge_02\bin\Debug\net8.0\challenge_02.dll
+D:\Data\6.Other\10.C#\TestProject\array_operations\challenge_02\bin\Debug\net8.0\challenge_02.pdb
+D:\Data\6.Other\10.C#\TestProject\array_operations\challenge_02\obj\Debug\net8.0\challenge_02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\6.Other\10.C#\TestProject\array_operations\challenge_02\obj\Debug\net8.0\challenge_02.AssemblyInfoInputs.cache
+D:\Data\6.Other\10.C#\TestProject\array_operations\challenge_02\obj\Debug\net8.0\challenge_02.AssemblyInfo.cs
+D:\Data\6.Other\10.C#\TestProject\array_operations\challenge_02\obj\Debug\net8.0\challenge_02.csproj.CoreCompileInputs.cache
+D:\Data\6.Other\10.C#\TestProject\array_operations\challenge_02\obj\Debug\net8.0\challenge_02.sourcelink.json
+D:\Data\6.Other\10.C#\TestProject\array_operations\challenge_02\obj\Debug\net8.0\challenge_02.dll
+D:\Data\6.Other\10.C#\TestProject\array_operations\challenge_02\obj\Debug\net8.0\refint\challenge_02.dll
+D:\Data\6.Other\10.C#\TestProject\array_operations\challenge_02\obj\Debug\net8.0\challenge_02.pdb
+D:\Data\6.Other\10.C#\TestProject\array_operations\challenge_02\obj\Debug\net8.0\challenge_02.genruntimeconfig.cache
+D:\Data\6.Other\10.C#\TestProject\array_operations\challenge_02\obj\Debug\net8.0\ref\challenge_02.dll

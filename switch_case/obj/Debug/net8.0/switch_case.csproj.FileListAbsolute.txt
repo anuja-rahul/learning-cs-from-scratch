@@ -1,0 +1,15 @@
+D:\Data\6.Other\10.C#\TestProject\switch_case\obj\Debug\net8.0\switch_case.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\6.Other\10.C#\TestProject\switch_case\obj\Debug\net8.0\switch_case.AssemblyInfoInputs.cache
+D:\Data\6.Other\10.C#\TestProject\switch_case\obj\Debug\net8.0\switch_case.AssemblyInfo.cs
+D:\Data\6.Other\10.C#\TestProject\switch_case\obj\Debug\net8.0\switch_case.csproj.CoreCompileInputs.cache
+D:\Data\6.Other\10.C#\TestProject\switch_case\obj\Debug\net8.0\switch_case.sourcelink.json
+D:\Data\6.Other\10.C#\TestProject\switch_case\bin\Debug\net8.0\switch_case.exe
+D:\Data\6.Other\10.C#\TestProject\switch_case\bin\Debug\net8.0\switch_case.deps.json
+D:\Data\6.Other\10.C#\TestProject\switch_case\bin\Debug\net8.0\switch_case.runtimeconfig.json
+D:\Data\6.Other\10.C#\TestProject\switch_case\bin\Debug\net8.0\switch_case.dll
+D:\Data\6.Other\10.C#\TestProject\switch_case\bin\Debug\net8.0\switch_case.pdb
+D:\Data\6.Other\10.C#\TestProject\switch_case\obj\Debug\net8.0\switch_case.dll
+D:\Data\6.Other\10.C#\TestProject\switch_case\obj\Debug\net8.0\refint\switch_case.dll
+D:\Data\6.Other\10.C#\TestProject\switch_case\obj\Debug\net8.0\switch_case.pdb
+D:\Data\6.Other\10.C#\TestProject\switch_case\obj\Debug\net8.0\switch_case.genruntimeconfig.cache
+D:\Data\6.Other\10.C#\TestProject\switch_case\obj\Debug\net8.0\ref\switch_case.dll

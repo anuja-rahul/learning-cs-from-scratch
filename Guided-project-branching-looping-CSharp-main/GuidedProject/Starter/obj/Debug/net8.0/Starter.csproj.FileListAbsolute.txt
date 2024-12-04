@@ -1,0 +1,15 @@
+D:\Data\6.Other\10.C#\TestProject\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.exe
+D:\Data\6.Other\10.C#\TestProject\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.deps.json
+D:\Data\6.Other\10.C#\TestProject\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.runtimeconfig.json
+D:\Data\6.Other\10.C#\TestProject\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.dll
+D:\Data\6.Other\10.C#\TestProject\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.pdb
+D:\Data\6.Other\10.C#\TestProject\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\6.Other\10.C#\TestProject\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfoInputs.cache
+D:\Data\6.Other\10.C#\TestProject\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfo.cs
+D:\Data\6.Other\10.C#\TestProject\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.csproj.CoreCompileInputs.cache
+D:\Data\6.Other\10.C#\TestProject\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.sourcelink.json
+D:\Data\6.Other\10.C#\TestProject\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.dll
+D:\Data\6.Other\10.C#\TestProject\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\refint\Starter.dll
+D:\Data\6.Other\10.C#\TestProject\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.pdb
+D:\Data\6.Other\10.C#\TestProject\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.genruntimeconfig.cache
+D:\Data\6.Other\10.C#\TestProject\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\ref\Starter.dll

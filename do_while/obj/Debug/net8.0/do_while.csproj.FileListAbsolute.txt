@@ -1,0 +1,15 @@
+D:\Data\6.Other\10.C#\TestProject\do_while\bin\Debug\net8.0\do_while.exe
+D:\Data\6.Other\10.C#\TestProject\do_while\bin\Debug\net8.0\do_while.deps.json
+D:\Data\6.Other\10.C#\TestProject\do_while\bin\Debug\net8.0\do_while.runtimeconfig.json
+D:\Data\6.Other\10.C#\TestProject\do_while\bin\Debug\net8.0\do_while.dll
+D:\Data\6.Other\10.C#\TestProject\do_while\bin\Debug\net8.0\do_while.pdb
+D:\Data\6.Other\10.C#\TestProject\do_while\obj\Debug\net8.0\do_while.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\6.Other\10.C#\TestProject\do_while\obj\Debug\net8.0\do_while.AssemblyInfoInputs.cache
+D:\Data\6.Other\10.C#\TestProject\do_while\obj\Debug\net8.0\do_while.AssemblyInfo.cs
+D:\Data\6.Other\10.C#\TestProject\do_while\obj\Debug\net8.0\do_while.csproj.CoreCompileInputs.cache
+D:\Data\6.Other\10.C#\TestProject\do_while\obj\Debug\net8.0\do_while.sourcelink.json
+D:\Data\6.Other\10.C#\TestProject\do_while\obj\Debug\net8.0\do_while.dll
+D:\Data\6.Other\10.C#\TestProject\do_while\obj\Debug\net8.0\refint\do_while.dll
+D:\Data\6.Other\10.C#\TestProject\do_while\obj\Debug\net8.0\do_while.pdb
+D:\Data\6.Other\10.C#\TestProject\do_while\obj\Debug\net8.0\do_while.genruntimeconfig.cache
+D:\Data\6.Other\10.C#\TestProject\do_while\obj\Debug\net8.0\ref\do_while.dll

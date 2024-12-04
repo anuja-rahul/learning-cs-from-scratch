@@ -1,0 +1,15 @@
+D:\Data\6.Other\10.C#\TestProject\alphanumeric-data_formatting\bin\Debug\net8.0\alphanumeric-data_formatting.exe
+D:\Data\6.Other\10.C#\TestProject\alphanumeric-data_formatting\bin\Debug\net8.0\alphanumeric-data_formatting.deps.json
+D:\Data\6.Other\10.C#\TestProject\alphanumeric-data_formatting\bin\Debug\net8.0\alphanumeric-data_formatting.runtimeconfig.json
+D:\Data\6.Other\10.C#\TestProject\alphanumeric-data_formatting\bin\Debug\net8.0\alphanumeric-data_formatting.dll
+D:\Data\6.Other\10.C#\TestProject\alphanumeric-data_formatting\bin\Debug\net8.0\alphanumeric-data_formatting.pdb
+D:\Data\6.Other\10.C#\TestProject\alphanumeric-data_formatting\obj\Debug\net8.0\alphanumeric-data_formatting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\6.Other\10.C#\TestProject\alphanumeric-data_formatting\obj\Debug\net8.0\alphanumeric-data_formatting.AssemblyInfoInputs.cache
+D:\Data\6.Other\10.C#\TestProject\alphanumeric-data_formatting\obj\Debug\net8.0\alphanumeric-data_formatting.AssemblyInfo.cs
+D:\Data\6.Other\10.C#\TestProject\alphanumeric-data_formatting\obj\Debug\net8.0\alphanumeric-data_formatting.csproj.CoreCompileInputs.cache
+D:\Data\6.Other\10.C#\TestProject\alphanumeric-data_formatting\obj\Debug\net8.0\alphanumeric-data_formatting.sourcelink.json
+D:\Data\6.Other\10.C#\TestProject\alphanumeric-data_formatting\obj\Debug\net8.0\alphanumeric-data_formatting.dll
+D:\Data\6.Other\10.C#\TestProject\alphanumeric-data_formatting\obj\Debug\net8.0\refint\alphanumeric-data_formatting.dll
+D:\Data\6.Other\10.C#\TestProject\alphanumeric-data_formatting\obj\Debug\net8.0\alphanumeric-data_formatting.pdb
+D:\Data\6.Other\10.C#\TestProject\alphanumeric-data_formatting\obj\Debug\net8.0\alphanumeric-data_formatting.genruntimeconfig.cache
+D:\Data\6.Other\10.C#\TestProject\alphanumeric-data_formatting\obj\Debug\net8.0\ref\alphanumeric-data_formatting.dll

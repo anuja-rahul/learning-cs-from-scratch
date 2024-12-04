@@ -1,0 +1,15 @@
+D:\Data\6.Other\10.C#\TestProject\builtin_string_methods\exercise_exreat_replace_remove\bin\Debug\net8.0\exercise_exreat_replace_remove.exe
+D:\Data\6.Other\10.C#\TestProject\builtin_string_methods\exercise_exreat_replace_remove\bin\Debug\net8.0\exercise_exreat_replace_remove.deps.json
+D:\Data\6.Other\10.C#\TestProject\builtin_string_methods\exercise_exreat_replace_remove\bin\Debug\net8.0\exercise_exreat_replace_remove.runtimeconfig.json
+D:\Data\6.Other\10.C#\TestProject\builtin_string_methods\exercise_exreat_replace_remove\bin\Debug\net8.0\exercise_exreat_replace_remove.dll
+D:\Data\6.Other\10.C#\TestProject\builtin_string_methods\exercise_exreat_replace_remove\bin\Debug\net8.0\exercise_exreat_replace_remove.pdb
+D:\Data\6.Other\10.C#\TestProject\builtin_string_methods\exercise_exreat_replace_remove\obj\Debug\net8.0\exercise_exreat_replace_remove.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\6.Other\10.C#\TestProject\builtin_string_methods\exercise_exreat_replace_remove\obj\Debug\net8.0\exercise_exreat_replace_remove.AssemblyInfoInputs.cache
+D:\Data\6.Other\10.C#\TestProject\builtin_string_methods\exercise_exreat_replace_remove\obj\Debug\net8.0\exercise_exreat_replace_remove.AssemblyInfo.cs
+D:\Data\6.Other\10.C#\TestProject\builtin_string_methods\exercise_exreat_replace_remove\obj\Debug\net8.0\exercise_exreat_replace_remove.csproj.CoreCompileInputs.cache
+D:\Data\6.Other\10.C#\TestProject\builtin_string_methods\exercise_exreat_replace_remove\obj\Debug\net8.0\exercise_exreat_replace_remove.sourcelink.json
+D:\Data\6.Other\10.C#\TestProject\builtin_string_methods\exercise_exreat_replace_remove\obj\Debug\net8.0\exercise_exreat_replace_remove.dll
+D:\Data\6.Other\10.C#\TestProject\builtin_string_methods\exercise_exreat_replace_remove\obj\Debug\net8.0\refint\exercise_exreat_replace_remove.dll
+D:\Data\6.Other\10.C#\TestProject\builtin_string_methods\exercise_exreat_replace_remove\obj\Debug\net8.0\exercise_exreat_replace_remove.pdb
+D:\Data\6.Other\10.C#\TestProject\builtin_string_methods\exercise_exreat_replace_remove\obj\Debug\net8.0\exercise_exreat_replace_remove.genruntimeconfig.cache
+D:\Data\6.Other\10.C#\TestProject\builtin_string_methods\exercise_exreat_replace_remove\obj\Debug\net8.0\ref\exercise_exreat_replace_remove.dll

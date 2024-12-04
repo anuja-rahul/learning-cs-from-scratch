@@ -1,0 +1,15 @@
+D:\Data\6.Other\10.C#\TestProject\builtin_string_methods\exercise_Remove_Replace\bin\Debug\net8.0\exercise_Remove_Replace.exe
+D:\Data\6.Other\10.C#\TestProject\builtin_string_methods\exercise_Remove_Replace\bin\Debug\net8.0\exercise_Remove_Replace.deps.json
+D:\Data\6.Other\10.C#\TestProject\builtin_string_methods\exercise_Remove_Replace\bin\Debug\net8.0\exercise_Remove_Replace.runtimeconfig.json
+D:\Data\6.Other\10.C#\TestProject\builtin_string_methods\exercise_Remove_Replace\bin\Debug\net8.0\exercise_Remove_Replace.dll
+D:\Data\6.Other\10.C#\TestProject\builtin_string_methods\exercise_Remove_Replace\bin\Debug\net8.0\exercise_Remove_Replace.pdb
+D:\Data\6.Other\10.C#\TestProject\builtin_string_methods\exercise_Remove_Replace\obj\Debug\net8.0\exercise_Remove_Replace.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\6.Other\10.C#\TestProject\builtin_string_methods\exercise_Remove_Replace\obj\Debug\net8.0\exercise_Remove_Replace.AssemblyInfoInputs.cache
+D:\Data\6.Other\10.C#\TestProject\builtin_string_methods\exercise_Remove_Replace\obj\Debug\net8.0\exercise_Remove_Replace.AssemblyInfo.cs
+D:\Data\6.Other\10.C#\TestProject\builtin_string_methods\exercise_Remove_Replace\obj\Debug\net8.0\exercise_Remove_Replace.csproj.CoreCompileInputs.cache
+D:\Data\6.Other\10.C#\TestProject\builtin_string_methods\exercise_Remove_Replace\obj\Debug\net8.0\exercise_Remove_Replace.sourcelink.json
+D:\Data\6.Other\10.C#\TestProject\builtin_string_methods\exercise_Remove_Replace\obj\Debug\net8.0\exercise_Remove_Replace.dll
+D:\Data\6.Other\10.C#\TestProject\builtin_string_methods\exercise_Remove_Replace\obj\Debug\net8.0\refint\exercise_Remove_Replace.dll
+D:\Data\6.Other\10.C#\TestProject\builtin_string_methods\exercise_Remove_Replace\obj\Debug\net8.0\exercise_Remove_Replace.pdb
+D:\Data\6.Other\10.C#\TestProject\builtin_string_methods\exercise_Remove_Replace\obj\Debug\net8.0\exercise_Remove_Replace.genruntimeconfig.cache
+D:\Data\6.Other\10.C#\TestProject\builtin_string_methods\exercise_Remove_Replace\obj\Debug\net8.0\ref\exercise_Remove_Replace.dll

@@ -1,0 +1,15 @@
+D:\Data\6.Other\10.C#\TestProject\builtin_string_methods\bin\Debug\net8.0\builtin_string_methods.exe
+D:\Data\6.Other\10.C#\TestProject\builtin_string_methods\bin\Debug\net8.0\builtin_string_methods.deps.json
+D:\Data\6.Other\10.C#\TestProject\builtin_string_methods\bin\Debug\net8.0\builtin_string_methods.runtimeconfig.json
+D:\Data\6.Other\10.C#\TestProject\builtin_string_methods\bin\Debug\net8.0\builtin_string_methods.dll
+D:\Data\6.Other\10.C#\TestProject\builtin_string_methods\bin\Debug\net8.0\builtin_string_methods.pdb
+D:\Data\6.Other\10.C#\TestProject\builtin_string_methods\obj\Debug\net8.0\builtin_string_methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\6.Other\10.C#\TestProject\builtin_string_methods\obj\Debug\net8.0\builtin_string_methods.AssemblyInfoInputs.cache
+D:\Data\6.Other\10.C#\TestProject\builtin_string_methods\obj\Debug\net8.0\builtin_string_methods.AssemblyInfo.cs
+D:\Data\6.Other\10.C#\TestProject\builtin_string_methods\obj\Debug\net8.0\builtin_string_methods.csproj.CoreCompileInputs.cache
+D:\Data\6.Other\10.C#\TestProject\builtin_string_methods\obj\Debug\net8.0\builtin_string_methods.sourcelink.json
+D:\Data\6.Other\10.C#\TestProject\builtin_string_methods\obj\Debug\net8.0\builtin_string_methods.dll
+D:\Data\6.Other\10.C#\TestProject\builtin_string_methods\obj\Debug\net8.0\refint\builtin_string_methods.dll
+D:\Data\6.Other\10.C#\TestProject\builtin_string_methods\obj\Debug\net8.0\builtin_string_methods.pdb
+D:\Data\6.Other\10.C#\TestProject\builtin_string_methods\obj\Debug\net8.0\builtin_string_methods.genruntimeconfig.cache
+D:\Data\6.Other\10.C#\TestProject\builtin_string_methods\obj\Debug\net8.0\ref\builtin_string_methods.dll

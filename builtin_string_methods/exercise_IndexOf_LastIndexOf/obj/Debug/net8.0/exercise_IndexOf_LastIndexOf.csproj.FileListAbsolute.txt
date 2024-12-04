@@ -1,0 +1,15 @@
+D:\Data\6.Other\10.C#\TestProject\builtin_string_methods\exercise_IndexOf_LastIndexOf\bin\Debug\net8.0\exercise_IndexOf_LastIndexOf.exe
+D:\Data\6.Other\10.C#\TestProject\builtin_string_methods\exercise_IndexOf_LastIndexOf\bin\Debug\net8.0\exercise_IndexOf_LastIndexOf.deps.json
+D:\Data\6.Other\10.C#\TestProject\builtin_string_methods\exercise_IndexOf_LastIndexOf\bin\Debug\net8.0\exercise_IndexOf_LastIndexOf.runtimeconfig.json
+D:\Data\6.Other\10.C#\TestProject\builtin_string_methods\exercise_IndexOf_LastIndexOf\bin\Debug\net8.0\exercise_IndexOf_LastIndexOf.dll
+D:\Data\6.Other\10.C#\TestProject\builtin_string_methods\exercise_IndexOf_LastIndexOf\bin\Debug\net8.0\exercise_IndexOf_LastIndexOf.pdb
+D:\Data\6.Other\10.C#\TestProject\builtin_string_methods\exercise_IndexOf_LastIndexOf\obj\Debug\net8.0\exercise_IndexOf_LastIndexOf.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\6.Other\10.C#\TestProject\builtin_string_methods\exercise_IndexOf_LastIndexOf\obj\Debug\net8.0\exercise_IndexOf_LastIndexOf.AssemblyInfoInputs.cache
+D:\Data\6.Other\10.C#\TestProject\builtin_string_methods\exercise_IndexOf_LastIndexOf\obj\Debug\net8.0\exercise_IndexOf_LastIndexOf.AssemblyInfo.cs
+D:\Data\6.Other\10.C#\TestProject\builtin_string_methods\exercise_IndexOf_LastIndexOf\obj\Debug\net8.0\exercise_IndexOf_LastIndexOf.csproj.CoreCompileInputs.cache
+D:\Data\6.Other\10.C#\TestProject\builtin_string_methods\exercise_IndexOf_LastIndexOf\obj\Debug\net8.0\exercise_IndexOf_LastIndexOf.sourcelink.json
+D:\Data\6.Other\10.C#\TestProject\builtin_string_methods\exercise_IndexOf_LastIndexOf\obj\Debug\net8.0\exercise_IndexOf_LastIndexOf.dll
+D:\Data\6.Other\10.C#\TestProject\builtin_string_methods\exercise_IndexOf_LastIndexOf\obj\Debug\net8.0\refint\exercise_IndexOf_LastIndexOf.dll
+D:\Data\6.Other\10.C#\TestProject\builtin_string_methods\exercise_IndexOf_LastIndexOf\obj\Debug\net8.0\exercise_IndexOf_LastIndexOf.pdb
+D:\Data\6.Other\10.C#\TestProject\builtin_string_methods\exercise_IndexOf_LastIndexOf\obj\Debug\net8.0\exercise_IndexOf_LastIndexOf.genruntimeconfig.cache
+D:\Data\6.Other\10.C#\TestProject\builtin_string_methods\exercise_IndexOf_LastIndexOf\obj\Debug\net8.0\ref\exercise_IndexOf_LastIndexOf.dll

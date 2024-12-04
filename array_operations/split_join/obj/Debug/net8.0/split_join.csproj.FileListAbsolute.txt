@@ -1,0 +1,15 @@
+D:\Data\6.Other\10.C#\TestProject\array_operations\split_join\bin\Debug\net8.0\split_join.exe
+D:\Data\6.Other\10.C#\TestProject\array_operations\split_join\bin\Debug\net8.0\split_join.deps.json
+D:\Data\6.Other\10.C#\TestProject\array_operations\split_join\bin\Debug\net8.0\split_join.runtimeconfig.json
+D:\Data\6.Other\10.C#\TestProject\array_operations\split_join\bin\Debug\net8.0\split_join.dll
+D:\Data\6.Other\10.C#\TestProject\array_operations\split_join\bin\Debug\net8.0\split_join.pdb
+D:\Data\6.Other\10.C#\TestProject\array_operations\split_join\obj\Debug\net8.0\split_join.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\6.Other\10.C#\TestProject\array_operations\split_join\obj\Debug\net8.0\split_join.AssemblyInfoInputs.cache
+D:\Data\6.Other\10.C#\TestProject\array_operations\split_join\obj\Debug\net8.0\split_join.AssemblyInfo.cs
+D:\Data\6.Other\10.C#\TestProject\array_operations\split_join\obj\Debug\net8.0\split_join.csproj.CoreCompileInputs.cache
+D:\Data\6.Other\10.C#\TestProject\array_operations\split_join\obj\Debug\net8.0\split_join.sourcelink.json
+D:\Data\6.Other\10.C#\TestProject\array_operations\split_join\obj\Debug\net8.0\split_join.dll
+D:\Data\6.Other\10.C#\TestProject\array_operations\split_join\obj\Debug\net8.0\refint\split_join.dll
+D:\Data\6.Other\10.C#\TestProject\array_operations\split_join\obj\Debug\net8.0\split_join.pdb
+D:\Data\6.Other\10.C#\TestProject\array_operations\split_join\obj\Debug\net8.0\split_join.genruntimeconfig.cache
+D:\Data\6.Other\10.C#\TestProject\array_operations\split_join\obj\Debug\net8.0\ref\split_join.dll

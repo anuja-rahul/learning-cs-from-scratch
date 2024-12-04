@@ -1,0 +1,15 @@
+D:\Data\6.Other\10.C#\TestProject\type_conversion\number_type_exercise\bin\Debug\net8.0\number_type_exercise.exe
+D:\Data\6.Other\10.C#\TestProject\type_conversion\number_type_exercise\bin\Debug\net8.0\number_type_exercise.deps.json
+D:\Data\6.Other\10.C#\TestProject\type_conversion\number_type_exercise\bin\Debug\net8.0\number_type_exercise.runtimeconfig.json
+D:\Data\6.Other\10.C#\TestProject\type_conversion\number_type_exercise\bin\Debug\net8.0\number_type_exercise.dll
+D:\Data\6.Other\10.C#\TestProject\type_conversion\number_type_exercise\bin\Debug\net8.0\number_type_exercise.pdb
+D:\Data\6.Other\10.C#\TestProject\type_conversion\number_type_exercise\obj\Debug\net8.0\number_type_exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\6.Other\10.C#\TestProject\type_conversion\number_type_exercise\obj\Debug\net8.0\number_type_exercise.AssemblyInfoInputs.cache
+D:\Data\6.Other\10.C#\TestProject\type_conversion\number_type_exercise\obj\Debug\net8.0\number_type_exercise.AssemblyInfo.cs
+D:\Data\6.Other\10.C#\TestProject\type_conversion\number_type_exercise\obj\Debug\net8.0\number_type_exercise.csproj.CoreCompileInputs.cache
+D:\Data\6.Other\10.C#\TestProject\type_conversion\number_type_exercise\obj\Debug\net8.0\number_type_exercise.sourcelink.json
+D:\Data\6.Other\10.C#\TestProject\type_conversion\number_type_exercise\obj\Debug\net8.0\number_type_exercise.dll
+D:\Data\6.Other\10.C#\TestProject\type_conversion\number_type_exercise\obj\Debug\net8.0\refint\number_type_exercise.dll
+D:\Data\6.Other\10.C#\TestProject\type_conversion\number_type_exercise\obj\Debug\net8.0\number_type_exercise.pdb
+D:\Data\6.Other\10.C#\TestProject\type_conversion\number_type_exercise\obj\Debug\net8.0\number_type_exercise.genruntimeconfig.cache
+D:\Data\6.Other\10.C#\TestProject\type_conversion\number_type_exercise\obj\Debug\net8.0\ref\number_type_exercise.dll

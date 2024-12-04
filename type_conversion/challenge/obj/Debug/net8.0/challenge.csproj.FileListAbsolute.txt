@@ -1,0 +1,15 @@
+D:\Data\6.Other\10.C#\TestProject\type_conversion\challenge\bin\Debug\net8.0\challenge.exe
+D:\Data\6.Other\10.C#\TestProject\type_conversion\challenge\bin\Debug\net8.0\challenge.deps.json
+D:\Data\6.Other\10.C#\TestProject\type_conversion\challenge\bin\Debug\net8.0\challenge.runtimeconfig.json
+D:\Data\6.Other\10.C#\TestProject\type_conversion\challenge\bin\Debug\net8.0\challenge.dll
+D:\Data\6.Other\10.C#\TestProject\type_conversion\challenge\bin\Debug\net8.0\challenge.pdb
+D:\Data\6.Other\10.C#\TestProject\type_conversion\challenge\obj\Debug\net8.0\challenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\6.Other\10.C#\TestProject\type_conversion\challenge\obj\Debug\net8.0\challenge.AssemblyInfoInputs.cache
+D:\Data\6.Other\10.C#\TestProject\type_conversion\challenge\obj\Debug\net8.0\challenge.AssemblyInfo.cs
+D:\Data\6.Other\10.C#\TestProject\type_conversion\challenge\obj\Debug\net8.0\challenge.csproj.CoreCompileInputs.cache
+D:\Data\6.Other\10.C#\TestProject\type_conversion\challenge\obj\Debug\net8.0\challenge.sourcelink.json
+D:\Data\6.Other\10.C#\TestProject\type_conversion\challenge\obj\Debug\net8.0\challenge.dll
+D:\Data\6.Other\10.C#\TestProject\type_conversion\challenge\obj\Debug\net8.0\refint\challenge.dll
+D:\Data\6.Other\10.C#\TestProject\type_conversion\challenge\obj\Debug\net8.0\challenge.pdb
+D:\Data\6.Other\10.C#\TestProject\type_conversion\challenge\obj\Debug\net8.0\challenge.genruntimeconfig.cache
+D:\Data\6.Other\10.C#\TestProject\type_conversion\challenge\obj\Debug\net8.0\ref\challenge.dll

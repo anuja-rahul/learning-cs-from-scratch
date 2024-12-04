@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "tryparse_exercise/1.0.0": {
+        "runtime": {
+          "tryparse_exercise.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tryparse_exercise/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

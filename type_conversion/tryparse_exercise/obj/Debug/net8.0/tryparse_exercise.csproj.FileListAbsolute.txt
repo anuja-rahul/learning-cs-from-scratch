@@ -1,0 +1,15 @@
+D:\Data\6.Other\10.C#\TestProject\type_conversion\tryparse_exercise\bin\Debug\net8.0\tryparse_exercise.exe
+D:\Data\6.Other\10.C#\TestProject\type_conversion\tryparse_exercise\bin\Debug\net8.0\tryparse_exercise.deps.json
+D:\Data\6.Other\10.C#\TestProject\type_conversion\tryparse_exercise\bin\Debug\net8.0\tryparse_exercise.runtimeconfig.json
+D:\Data\6.Other\10.C#\TestProject\type_conversion\tryparse_exercise\bin\Debug\net8.0\tryparse_exercise.dll
+D:\Data\6.Other\10.C#\TestProject\type_conversion\tryparse_exercise\bin\Debug\net8.0\tryparse_exercise.pdb
+D:\Data\6.Other\10.C#\TestProject\type_conversion\tryparse_exercise\obj\Debug\net8.0\tryparse_exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\6.Other\10.C#\TestProject\type_conversion\tryparse_exercise\obj\Debug\net8.0\tryparse_exercise.AssemblyInfoInputs.cache
+D:\Data\6.Other\10.C#\TestProject\type_conversion\tryparse_exercise\obj\Debug\net8.0\tryparse_exercise.AssemblyInfo.cs
+D:\Data\6.Other\10.C#\TestProject\type_conversion\tryparse_exercise\obj\Debug\net8.0\tryparse_exercise.csproj.CoreCompileInputs.cache
+D:\Data\6.Other\10.C#\TestProject\type_conversion\tryparse_exercise\obj\Debug\net8.0\tryparse_exercise.sourcelink.json
+D:\Data\6.Other\10.C#\TestProject\type_conversion\tryparse_exercise\obj\Debug\net8.0\tryparse_exercise.dll
+D:\Data\6.Other\10.C#\TestProject\type_conversion\tryparse_exercise\obj\Debug\net8.0\refint\tryparse_exercise.dll
+D:\Data\6.Other\10.C#\TestProject\type_conversion\tryparse_exercise\obj\Debug\net8.0\tryparse_exercise.pdb
+D:\Data\6.Other\10.C#\TestProject\type_conversion\tryparse_exercise\obj\Debug\net8.0\tryparse_exercise.genruntimeconfig.cache
+D:\Data\6.Other\10.C#\TestProject\type_conversion\tryparse_exercise\obj\Debug\net8.0\ref\tryparse_exercise.dll

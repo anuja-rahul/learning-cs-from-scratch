@@ -1,0 +1,5 @@
+D:\Data\6.Other\10.C#\TestProject\type_conversion\obj\Debug\net8.0\type_conversion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\6.Other\10.C#\TestProject\type_conversion\obj\Debug\net8.0\type_conversion.AssemblyInfoInputs.cache
+D:\Data\6.Other\10.C#\TestProject\type_conversion\obj\Debug\net8.0\type_conversion.AssemblyInfo.cs
+D:\Data\6.Other\10.C#\TestProject\type_conversion\obj\Debug\net8.0\type_conversion.csproj.CoreCompileInputs.cache
+D:\Data\6.Other\10.C#\TestProject\type_conversion\obj\Debug\net8.0\type_conversion.sourcelink.json

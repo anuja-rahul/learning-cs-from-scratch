@@ -1,6 +1,6 @@
 using System;
 
-// the ourAnimals array will store the following: 
+// the ourAnimals array will store the following:
 string animalSpecies = "";
 string animalID = "";
 string animalAge = "";
@@ -99,8 +99,8 @@ do
     {
         menuSelection = readResult.ToLower();
         // NOTE: We could put a do statement around the menuSelection entry to ensure a valid entry, but we
-        //  use a conditional statement below that only processes the valid entry values, so the do statement 
-        //  is not required here. 
+        //  use a conditional statement below that only processes the valid entry values, so the do statement
+        //  is not required here.
     }
 
     // use switch-case to process the selected menu option
@@ -144,8 +144,8 @@ do
             while (anotherPet == "y" && petCount < maxPets)
             {
                 bool validEntry = false;
-                
-                // get species (cat or dog) - string animalSpecies is a required field 
+
+                // get species (cat or dog) - string animalSpecies is a required field
                 do
                 {
                     Console.WriteLine("\n\rEnter 'dog' or 'cat' to begin a new entry");
@@ -297,7 +297,7 @@ do
             Console.WriteLine("Press the Enter key to continue.");
             readResult = Console.ReadLine();
             break;
-        
+
         case "7":
             // Display all cats with a specified characteristic
             Console.WriteLine("UNDER CONSTRUCTION - please check back next month to see progress.");

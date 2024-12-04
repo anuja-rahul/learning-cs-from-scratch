@@ -1,0 +1,15 @@
+D:\Data\6.Other\10.C#\TestProject\iterate_using_for\bin\Debug\net8.0\iterate_using_for.exe
+D:\Data\6.Other\10.C#\TestProject\iterate_using_for\bin\Debug\net8.0\iterate_using_for.deps.json
+D:\Data\6.Other\10.C#\TestProject\iterate_using_for\bin\Debug\net8.0\iterate_using_for.runtimeconfig.json
+D:\Data\6.Other\10.C#\TestProject\iterate_using_for\bin\Debug\net8.0\iterate_using_for.dll
+D:\Data\6.Other\10.C#\TestProject\iterate_using_for\bin\Debug\net8.0\iterate_using_for.pdb
+D:\Data\6.Other\10.C#\TestProject\iterate_using_for\obj\Debug\net8.0\iterate_using_for.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\6.Other\10.C#\TestProject\iterate_using_for\obj\Debug\net8.0\iterate_using_for.AssemblyInfoInputs.cache
+D:\Data\6.Other\10.C#\TestProject\iterate_using_for\obj\Debug\net8.0\iterate_using_for.AssemblyInfo.cs
+D:\Data\6.Other\10.C#\TestProject\iterate_using_for\obj\Debug\net8.0\iterate_using_for.csproj.CoreCompileInputs.cache
+D:\Data\6.Other\10.C#\TestProject\iterate_using_for\obj\Debug\net8.0\iterate_using_for.sourcelink.json
+D:\Data\6.Other\10.C#\TestProject\iterate_using_for\obj\Debug\net8.0\iterate_using_for.dll
+D:\Data\6.Other\10.C#\TestProject\iterate_using_for\obj\Debug\net8.0\refint\iterate_using_for.dll
+D:\Data\6.Other\10.C#\TestProject\iterate_using_for\obj\Debug\net8.0\iterate_using_for.pdb
+D:\Data\6.Other\10.C#\TestProject\iterate_using_for\obj\Debug\net8.0\iterate_using_for.genruntimeconfig.cache
+D:\Data\6.Other\10.C#\TestProject\iterate_using_for\obj\Debug\net8.0\ref\iterate_using_for.dll

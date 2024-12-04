@@ -1,0 +1,15 @@
+D:\Data\6.Other\10.C#\TestProject\array_operations\bin\Debug\net8.0\array_operations.exe
+D:\Data\6.Other\10.C#\TestProject\array_operations\bin\Debug\net8.0\array_operations.deps.json
+D:\Data\6.Other\10.C#\TestProject\array_operations\bin\Debug\net8.0\array_operations.runtimeconfig.json
+D:\Data\6.Other\10.C#\TestProject\array_operations\bin\Debug\net8.0\array_operations.dll
+D:\Data\6.Other\10.C#\TestProject\array_operations\bin\Debug\net8.0\array_operations.pdb
+D:\Data\6.Other\10.C#\TestProject\array_operations\obj\Debug\net8.0\array_operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\6.Other\10.C#\TestProject\array_operations\obj\Debug\net8.0\array_operations.AssemblyInfoInputs.cache
+D:\Data\6.Other\10.C#\TestProject\array_operations\obj\Debug\net8.0\array_operations.AssemblyInfo.cs
+D:\Data\6.Other\10.C#\TestProject\array_operations\obj\Debug\net8.0\array_operations.csproj.CoreCompileInputs.cache
+D:\Data\6.Other\10.C#\TestProject\array_operations\obj\Debug\net8.0\array_operations.sourcelink.json
+D:\Data\6.Other\10.C#\TestProject\array_operations\obj\Debug\net8.0\array_operations.dll
+D:\Data\6.Other\10.C#\TestProject\array_operations\obj\Debug\net8.0\refint\array_operations.dll
+D:\Data\6.Other\10.C#\TestProject\array_operations\obj\Debug\net8.0\array_operations.pdb
+D:\Data\6.Other\10.C#\TestProject\array_operations\obj\Debug\net8.0\array_operations.genruntimeconfig.cache
+D:\Data\6.Other\10.C#\TestProject\array_operations\obj\Debug\net8.0\ref\array_operations.dll

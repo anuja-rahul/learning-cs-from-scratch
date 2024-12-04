@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("switch_case")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb8afc55d0f8dff206a67f263eda5d730b00bb52")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+643524b0d6703529f19a6bd0761f52e7f10b7951")]
 [assembly: System.Reflection.AssemblyProductAttribute("switch_case")]
 [assembly: System.Reflection.AssemblyTitleAttribute("switch_case")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

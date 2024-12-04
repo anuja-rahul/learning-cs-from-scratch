@@ -36,7 +36,7 @@ for (int i = 0; i < maxPets; i++)
             animalPersonalityDescription = "loves to have his ears rubbed when he greets you at the door, or at any time! loves to lean-in and give doggy hugs.";
             animalNickname = "gus";
             break;
-        
+
         case 2:
             animalSpecies = "cat";
             animalID = "c3";
@@ -54,7 +54,7 @@ for (int i = 0; i < maxPets; i++)
             animalPersonalityDescription = "A people loving cat that likes to sit on your lap.";
             animalNickname = "Lion";
             break;
-        
+
         default:
             animalSpecies = "";
             animalID = "";
@@ -72,7 +72,7 @@ for (int i = 0; i < maxPets; i++)
     ourAnimals[i, 3] = "Nickname: " + animalNickname;
     ourAnimals[i, 4] = "Physical description: " + animalPhysicalDescription;
     ourAnimals[i, 5] = "Personality: " + animalPersonalityDescription;
-    
+
 }
 
 // #5 display the top-level menu options

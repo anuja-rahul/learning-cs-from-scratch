@@ -3,9 +3,6 @@
 Random random = new Random();
 int current = random.Next(1, 11);
 
-Random random = new Random();
-int current = random.Next(1, 11);
-
 do
 {
     current = random.Next(1, 11);

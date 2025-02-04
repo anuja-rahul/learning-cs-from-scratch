@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Data\\6.Other\\10.C#\\TestProject\\guided_projects\\mini_game\\mini_game.csproj",
-      "projectName": "mini_game",
-      "projectPath": "D:\\Data\\6.Other\\10.C#\\TestProject\\guided_projects\\mini_game\\mini_game.csproj",
+      "projectUniqueName": "D:\\Data\\6.Other\\10.C#\\TestProject\\guided_projects\\debug_project\\debug_project.csproj",
+      "projectName": "debug_project",
+      "projectPath": "D:\\Data\\6.Other\\10.C#\\TestProject\\guided_projects\\debug_project\\debug_project.csproj",
       "packagesPath": "C:\\Users\\argun\\.nuget\\packages\\",
-      "outputPath": "D:\\Data\\6.Other\\10.C#\\TestProject\\guided_projects\\mini_game\\obj\\",
+      "outputPath": "D:\\Data\\6.Other\\10.C#\\TestProject\\guided_projects\\debug_project\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

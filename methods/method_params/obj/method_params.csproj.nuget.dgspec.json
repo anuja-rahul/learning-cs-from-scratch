@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Data\\6.Other\\10.C#\\TestProject\\random_math\\TestProject.csproj": {}
+    "D:\\Data\\6.Other\\10.C#\\TestProject\\methods\\method_params\\method_params.csproj": {}
   },
   "projects": {
-    "D:\\Data\\6.Other\\10.C#\\TestProject\\random_math\\TestProject.csproj": {
+    "D:\\Data\\6.Other\\10.C#\\TestProject\\methods\\method_params\\method_params.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Data\\6.Other\\10.C#\\TestProject\\random_math\\TestProject.csproj",
-        "projectName": "TestProject",
-        "projectPath": "D:\\Data\\6.Other\\10.C#\\TestProject\\random_math\\TestProject.csproj",
+        "projectUniqueName": "D:\\Data\\6.Other\\10.C#\\TestProject\\methods\\method_params\\method_params.csproj",
+        "projectName": "method_params",
+        "projectPath": "D:\\Data\\6.Other\\10.C#\\TestProject\\methods\\method_params\\method_params.csproj",
         "packagesPath": "C:\\Users\\argun\\.nuget\\packages\\",
-        "outputPath": "D:\\Data\\6.Other\\10.C#\\TestProject\\random_math\\obj\\",
+        "outputPath": "D:\\Data\\6.Other\\10.C#\\TestProject\\methods\\method_params\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,15 +22,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net9.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {}
           }
         },
@@ -47,8 +47,8 @@
         "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "imports": [
             "net461",
             "net462",

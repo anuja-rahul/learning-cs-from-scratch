@@ -1,0 +1,15 @@
+D:\Data\6.Other\10.C#\TestProject\methods\method_syntax\bin\Debug\net9.0\method_syntax.exe
+D:\Data\6.Other\10.C#\TestProject\methods\method_syntax\bin\Debug\net9.0\method_syntax.deps.json
+D:\Data\6.Other\10.C#\TestProject\methods\method_syntax\bin\Debug\net9.0\method_syntax.runtimeconfig.json
+D:\Data\6.Other\10.C#\TestProject\methods\method_syntax\bin\Debug\net9.0\method_syntax.dll
+D:\Data\6.Other\10.C#\TestProject\methods\method_syntax\bin\Debug\net9.0\method_syntax.pdb
+D:\Data\6.Other\10.C#\TestProject\methods\method_syntax\obj\Debug\net9.0\method_syntax.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\6.Other\10.C#\TestProject\methods\method_syntax\obj\Debug\net9.0\method_syntax.AssemblyInfoInputs.cache
+D:\Data\6.Other\10.C#\TestProject\methods\method_syntax\obj\Debug\net9.0\method_syntax.AssemblyInfo.cs
+D:\Data\6.Other\10.C#\TestProject\methods\method_syntax\obj\Debug\net9.0\method_syntax.csproj.CoreCompileInputs.cache
+D:\Data\6.Other\10.C#\TestProject\methods\method_syntax\obj\Debug\net9.0\method_syntax.sourcelink.json
+D:\Data\6.Other\10.C#\TestProject\methods\method_syntax\obj\Debug\net9.0\method_syntax.dll
+D:\Data\6.Other\10.C#\TestProject\methods\method_syntax\obj\Debug\net9.0\refint\method_syntax.dll
+D:\Data\6.Other\10.C#\TestProject\methods\method_syntax\obj\Debug\net9.0\method_syntax.pdb
+D:\Data\6.Other\10.C#\TestProject\methods\method_syntax\obj\Debug\net9.0\method_syntax.genruntimeconfig.cache
+D:\Data\6.Other\10.C#\TestProject\methods\method_syntax\obj\Debug\net9.0\ref\method_syntax.dll

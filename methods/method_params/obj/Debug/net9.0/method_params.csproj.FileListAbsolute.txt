@@ -1,0 +1,15 @@
+D:\Data\6.Other\10.C#\TestProject\methods\method_params\bin\Debug\net9.0\method_params.exe
+D:\Data\6.Other\10.C#\TestProject\methods\method_params\bin\Debug\net9.0\method_params.deps.json
+D:\Data\6.Other\10.C#\TestProject\methods\method_params\bin\Debug\net9.0\method_params.runtimeconfig.json
+D:\Data\6.Other\10.C#\TestProject\methods\method_params\bin\Debug\net9.0\method_params.dll
+D:\Data\6.Other\10.C#\TestProject\methods\method_params\bin\Debug\net9.0\method_params.pdb
+D:\Data\6.Other\10.C#\TestProject\methods\method_params\obj\Debug\net9.0\method_params.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\6.Other\10.C#\TestProject\methods\method_params\obj\Debug\net9.0\method_params.AssemblyInfoInputs.cache
+D:\Data\6.Other\10.C#\TestProject\methods\method_params\obj\Debug\net9.0\method_params.AssemblyInfo.cs
+D:\Data\6.Other\10.C#\TestProject\methods\method_params\obj\Debug\net9.0\method_params.csproj.CoreCompileInputs.cache
+D:\Data\6.Other\10.C#\TestProject\methods\method_params\obj\Debug\net9.0\method_params.sourcelink.json
+D:\Data\6.Other\10.C#\TestProject\methods\method_params\obj\Debug\net9.0\method_params.dll
+D:\Data\6.Other\10.C#\TestProject\methods\method_params\obj\Debug\net9.0\refint\method_params.dll
+D:\Data\6.Other\10.C#\TestProject\methods\method_params\obj\Debug\net9.0\method_params.pdb
+D:\Data\6.Other\10.C#\TestProject\methods\method_params\obj\Debug\net9.0\method_params.genruntimeconfig.cache
+D:\Data\6.Other\10.C#\TestProject\methods\method_params\obj\Debug\net9.0\ref\method_params.dll

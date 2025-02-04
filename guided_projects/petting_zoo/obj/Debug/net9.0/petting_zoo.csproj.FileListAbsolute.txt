@@ -1,0 +1,15 @@
+D:\Data\6.Other\10.C#\TestProject\guided_projects\petting_zoo\bin\Debug\net9.0\petting_zoo.exe
+D:\Data\6.Other\10.C#\TestProject\guided_projects\petting_zoo\bin\Debug\net9.0\petting_zoo.deps.json
+D:\Data\6.Other\10.C#\TestProject\guided_projects\petting_zoo\bin\Debug\net9.0\petting_zoo.runtimeconfig.json
+D:\Data\6.Other\10.C#\TestProject\guided_projects\petting_zoo\bin\Debug\net9.0\petting_zoo.dll
+D:\Data\6.Other\10.C#\TestProject\guided_projects\petting_zoo\bin\Debug\net9.0\petting_zoo.pdb
+D:\Data\6.Other\10.C#\TestProject\guided_projects\petting_zoo\obj\Debug\net9.0\petting_zoo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\6.Other\10.C#\TestProject\guided_projects\petting_zoo\obj\Debug\net9.0\petting_zoo.AssemblyInfoInputs.cache
+D:\Data\6.Other\10.C#\TestProject\guided_projects\petting_zoo\obj\Debug\net9.0\petting_zoo.AssemblyInfo.cs
+D:\Data\6.Other\10.C#\TestProject\guided_projects\petting_zoo\obj\Debug\net9.0\petting_zoo.csproj.CoreCompileInputs.cache
+D:\Data\6.Other\10.C#\TestProject\guided_projects\petting_zoo\obj\Debug\net9.0\petting_zoo.sourcelink.json
+D:\Data\6.Other\10.C#\TestProject\guided_projects\petting_zoo\obj\Debug\net9.0\petting_zoo.dll
+D:\Data\6.Other\10.C#\TestProject\guided_projects\petting_zoo\obj\Debug\net9.0\refint\petting_zoo.dll
+D:\Data\6.Other\10.C#\TestProject\guided_projects\petting_zoo\obj\Debug\net9.0\petting_zoo.pdb
+D:\Data\6.Other\10.C#\TestProject\guided_projects\petting_zoo\obj\Debug\net9.0\petting_zoo.genruntimeconfig.cache
+D:\Data\6.Other\10.C#\TestProject\guided_projects\petting_zoo\obj\Debug\net9.0\ref\petting_zoo.dll

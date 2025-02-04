@@ -1,0 +1,15 @@
+D:\Data\6.Other\10.C#\TestProject\methods\return_types\bin\Debug\net9.0\return_types.exe
+D:\Data\6.Other\10.C#\TestProject\methods\return_types\bin\Debug\net9.0\return_types.deps.json
+D:\Data\6.Other\10.C#\TestProject\methods\return_types\bin\Debug\net9.0\return_types.runtimeconfig.json
+D:\Data\6.Other\10.C#\TestProject\methods\return_types\bin\Debug\net9.0\return_types.dll
+D:\Data\6.Other\10.C#\TestProject\methods\return_types\bin\Debug\net9.0\return_types.pdb
+D:\Data\6.Other\10.C#\TestProject\methods\return_types\obj\Debug\net9.0\return_types.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\6.Other\10.C#\TestProject\methods\return_types\obj\Debug\net9.0\return_types.AssemblyInfoInputs.cache
+D:\Data\6.Other\10.C#\TestProject\methods\return_types\obj\Debug\net9.0\return_types.AssemblyInfo.cs
+D:\Data\6.Other\10.C#\TestProject\methods\return_types\obj\Debug\net9.0\return_types.csproj.CoreCompileInputs.cache
+D:\Data\6.Other\10.C#\TestProject\methods\return_types\obj\Debug\net9.0\return_types.sourcelink.json
+D:\Data\6.Other\10.C#\TestProject\methods\return_types\obj\Debug\net9.0\return_types.dll
+D:\Data\6.Other\10.C#\TestProject\methods\return_types\obj\Debug\net9.0\refint\return_types.dll
+D:\Data\6.Other\10.C#\TestProject\methods\return_types\obj\Debug\net9.0\return_types.pdb
+D:\Data\6.Other\10.C#\TestProject\methods\return_types\obj\Debug\net9.0\return_types.genruntimeconfig.cache
+D:\Data\6.Other\10.C#\TestProject\methods\return_types\obj\Debug\net9.0\ref\return_types.dll

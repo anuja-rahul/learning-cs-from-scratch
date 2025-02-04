@@ -1,0 +1,15 @@
+D:\Data\6.Other\10.C#\TestProject\methods\exercise_04\bin\Debug\net9.0\exercise_04.exe
+D:\Data\6.Other\10.C#\TestProject\methods\exercise_04\bin\Debug\net9.0\exercise_04.deps.json
+D:\Data\6.Other\10.C#\TestProject\methods\exercise_04\bin\Debug\net9.0\exercise_04.runtimeconfig.json
+D:\Data\6.Other\10.C#\TestProject\methods\exercise_04\bin\Debug\net9.0\exercise_04.dll
+D:\Data\6.Other\10.C#\TestProject\methods\exercise_04\bin\Debug\net9.0\exercise_04.pdb
+D:\Data\6.Other\10.C#\TestProject\methods\exercise_04\obj\Debug\net9.0\exercise_04.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\6.Other\10.C#\TestProject\methods\exercise_04\obj\Debug\net9.0\exercise_04.AssemblyInfoInputs.cache
+D:\Data\6.Other\10.C#\TestProject\methods\exercise_04\obj\Debug\net9.0\exercise_04.AssemblyInfo.cs
+D:\Data\6.Other\10.C#\TestProject\methods\exercise_04\obj\Debug\net9.0\exercise_04.csproj.CoreCompileInputs.cache
+D:\Data\6.Other\10.C#\TestProject\methods\exercise_04\obj\Debug\net9.0\exercise_04.sourcelink.json
+D:\Data\6.Other\10.C#\TestProject\methods\exercise_04\obj\Debug\net9.0\exercise_04.dll
+D:\Data\6.Other\10.C#\TestProject\methods\exercise_04\obj\Debug\net9.0\refint\exercise_04.dll
+D:\Data\6.Other\10.C#\TestProject\methods\exercise_04\obj\Debug\net9.0\exercise_04.pdb
+D:\Data\6.Other\10.C#\TestProject\methods\exercise_04\obj\Debug\net9.0\exercise_04.genruntimeconfig.cache
+D:\Data\6.Other\10.C#\TestProject\methods\exercise_04\obj\Debug\net9.0\ref\exercise_04.dll
